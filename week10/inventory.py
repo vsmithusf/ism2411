@@ -1,6 +1,9 @@
 ### Self-Assessment Questions ###
-# 1)
-# 2)
+# 1) I expected formatting lists to be a lot more complicated when I first came into class. However, I now realize that formatting and
+# pulling values from a list is relatively straightforward and intuitive.
+# 2) In my financial accounting class I am currently enrolled in, we've had to find the highest and lowest sale values from a large group
+# of sales to perform calculations. With Python lists, finding the maximum and minimum values would be significantly easier than finding
+# them by hand, which would save me time on these kinds of problems.
 
 ### Exercise 1: Build a List ###
 print("--- Exercise 1: Build a List ---")
